@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6699FF&height=150&section=header&text=ZENO&fontColor=ffffff&fontSize=70&animation=twinkle&fontAlignY=35&desc=%20&descAlignY=62&descAlign=62)
   
-####  :wave: Welcome my github profile !
+####  :wave: Hi! I'm ZENO !
 
 
  <br/>
@@ -21,7 +21,8 @@
 <img src="https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeno1030&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
  
    <br/>
    <br/>
@@ -29,8 +30,6 @@
 #### :pencil2: Study log
  
   <br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeno1030&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zeno1030)](https://solved.ac/zeno1030)<br>
 ![zeno1030's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeno1030&show_icons=true&theme=transparent)
 
