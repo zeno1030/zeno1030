@@ -1,6 +1,7 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6699FF&height=150&section=header&text=ZENO&fontColor=ffffff&fontSize=70&animation=twinkle&fontAlignY=35&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Welcome%20to%20ZENO'S%20GitHub%20👋&animation=twinkling&fontColor=d6ace6&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
   
 ####  :wave: Hi! I'm ZENO !
 
