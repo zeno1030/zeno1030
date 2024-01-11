@@ -31,9 +31,9 @@
   <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeno1030&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zeno1030)](https://solved.ac/zeno1030)<br>
 ![zeno1030's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeno1030&show_icons=true&theme=transparent)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zeno1030)](https://solved.ac/zeno1030)
-  
+
 
 </div>
 
